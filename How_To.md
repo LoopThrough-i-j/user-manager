@@ -70,11 +70,11 @@ Create a User manager where an user can Sign in or Sign up using email and passw
 
     -   Btw we just talked about in sign in that we need to return the userId why so?
         It is mainly because everything in the database related to the user is identified by his userId
-        Say in real life your name is your userId. When your asks someone to find Ram's copy from the pile of copies
+        Say in real life your name is your userId. When your teacher asks someone to find Ram's copy from the pile of copies
         they check for ram's name, when it matches, they bring it out.
 
         - But name isn't a very good id for a database. Guess Why?
-        - Though Email is unique but it isn't a vey good id as well. Guess Why? this is a difficult one!
+        - Though Email is unique but it isn't a very good id as well. Guess Why? this is a difficult one!
 
     -   But man we are also talking soo much about a database. What the freak is that?
 
