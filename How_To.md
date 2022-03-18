@@ -1,5 +1,8 @@
 # Project: User Manager
 
+Create a User manager where an user can Sign in or Sign up using email and password. No additional data required.
+
+
 ## Knowledge 1: Package Management in Node
 
 -   Install the module
